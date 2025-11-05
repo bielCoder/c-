@@ -19,9 +19,11 @@ namespace aula12
             //     Console.WriteLine("Acesso permitido. Bem-vindo!");
             // }
             Console.Write("Digite a primeira nota:");
-            firstNote = float.Parse(Console.ReadLine()); 
+            string? input1 = Console.ReadLine();
+            firstNote = string.IsNullOrEmpty(input1) ? 0 : float.Parse(input1);
             Console.Write("Digite a segunda nota:");
-            secondNote = float.Parse(Console.ReadLine());
+            string? input2 = Console.ReadLine();
+            secondNote = string.IsNullOrEmpty(input2) ? 0 : float.Parse(input2);
 
 
             CalculateAverage((float) firstNote,(float) secondNote);
@@ -38,9 +40,6 @@ namespace aula12
             if (average >= 6)
             {
                 Console.WriteLine("Resultado: Aprovado");
-            } else if (average == 5)
-            {
-                Console.WriteLine("Resultado: Recuperação");
             }
             else
             {
