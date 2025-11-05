@@ -9,8 +9,8 @@ namespace aula13
         static void Main(string[] args)
         {
            
-
-            switch (JoyStick.MoverDireita())
+            Console.WriteLine("Escolha uma direção para mover o personagem:[W]Cima, [S]Baixo, [A]Esquerda, [D]Direita");
+            switch (Console.ReadLine())
             {
                 case 1:
                     Console.WriteLine("Personagem movendo para cima");
@@ -22,7 +22,7 @@ namespace aula13
                     Console.WriteLine("Personagem movendo para esquerda");
                     break;
                 case 4:
-                    Console.WriteLine("Personagem movendo para direita");   
+                    Console.WriteLine("Personagem movendo para direita");
                     break;
                 default:
                     Console.WriteLine("Opção inválida.");
