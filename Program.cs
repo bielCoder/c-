@@ -38,6 +38,9 @@ namespace aula12
             if (average >= 6)
             {
                 Console.WriteLine("Resultado: Aprovado");
+            } else if (average == 5)
+            {
+                Console.WriteLine("Resultado: Recuperação");
             }
             else
             {
