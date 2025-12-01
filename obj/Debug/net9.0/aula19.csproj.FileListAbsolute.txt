@@ -1,0 +1,14 @@
+C:\Users\gabriel.sousa\Desktop\c#\aula19\bin\Debug\net9.0\aula19.exe
+C:\Users\gabriel.sousa\Desktop\c#\aula19\bin\Debug\net9.0\aula19.deps.json
+C:\Users\gabriel.sousa\Desktop\c#\aula19\bin\Debug\net9.0\aula19.runtimeconfig.json
+C:\Users\gabriel.sousa\Desktop\c#\aula19\bin\Debug\net9.0\aula19.dll
+C:\Users\gabriel.sousa\Desktop\c#\aula19\bin\Debug\net9.0\aula19.pdb
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.AssemblyInfoInputs.cache
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.AssemblyInfo.cs
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.dll
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\refint\aula19.dll
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.pdb
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\aula19.genruntimeconfig.cache
+C:\Users\gabriel.sousa\Desktop\c#\aula19\obj\Debug\net9.0\ref\aula19.dll
