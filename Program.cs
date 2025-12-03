@@ -12,6 +12,10 @@ namespace Aula24
                 Console.WriteLine("Digite um número inteiro:");
                 int numero = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine($"Você digitou o número: {numero}");
+                if(true)
+                {
+                    throw new Exception("Erro genérico lançado propositalmente.");
+                }
             }
             catch (FormatException)
             {
