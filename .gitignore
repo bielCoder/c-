@@ -1,0 +1,10 @@
+# Pastas que não devem ir para o Git
+bin/
+obj/
+
+# Arquivos temporários do VS Code
+.vscode/
+
+# Arquivos do build
+*.cache
+*.log
